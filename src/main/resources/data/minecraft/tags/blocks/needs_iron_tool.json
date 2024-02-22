@@ -1,5 +1,10 @@
 {
   "values": [
+    "ntmod:sapphire_block",
+    "ntmod:raw_sapphire_block",
 
+    "ntmod:sapphire_ore",
+    "ntmod:nether_sapphire_ore",
+    "ntmod:deepslate_sapphire_ore"
   ]
 }

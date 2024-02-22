@@ -2,8 +2,19 @@
   "item.ntmod.sapphire": "Sapphire",
   "item.ntmod.raw_sapphire": "Raw Sapphire",
 
+  "item.ntmod.metal_detector": "Metal Detector",
+
+  "item.ntmod.strawberry": "Strawberry",
+
   "block.ntmod.sapphire_block": "Block of Sapphire",
   "block.ntmod.raw_sapphire_block": "Block of Raw Sapphire",
+
+  "block.ntmod.sapphire_ore": "Sapphire Ore",
+  "block.ntmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.ntmod.nether_sapphire_ore": "Nether Sapphire Ore",
+  "block.ntmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+
+  "block.ntmod.sound_block": "Sound Block",
 
   "creative.custom_tab" : "Custom Tab"
 }
