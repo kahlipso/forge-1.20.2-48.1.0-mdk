@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "ntmod:block/sound_block"
+    }
+  }
+}

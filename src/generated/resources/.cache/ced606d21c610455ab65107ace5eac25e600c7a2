@@ -1,0 +1,5 @@
+// 1.20.2	2024-03-13T21:58:22.7749358	Tags for minecraft:block mod id ntmod
+1fa82fc2d5a5027e5878777ee926887688975694 data/forge/tags/blocks/needs_netherite_tool.json
+cdc587d8a3f77c0cc1533e23addcf47171f347f3 data/minecraft/tags/blocks/mineable/pickaxe.json
+a0cfafcdb10f9b78b67af72285ab801277a5926e data/minecraft/tags/blocks/needs_iron_tool.json
+406c50759b103bd8677598330914f7b5a0477767 data/ntmod/tags/blocks/metal_detector_valuables.json
