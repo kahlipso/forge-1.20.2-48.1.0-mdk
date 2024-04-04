@@ -6,6 +6,12 @@
 
   "item.ntmod.strawberry": "Strawberry",
 
+  "item.ntmod.sapphire_sword": "Sapphire Sword",
+  "item.ntmod.sapphire_axe": "Sapphire Axe",
+  "item.ntmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.ntmod.sapphire_shovel": "Sapphire Shovel",
+  "item.ntmod.sapphire_hoe": "Sapphire Hoe",
+
   "block.ntmod.sapphire_block": "Block of Sapphire",
   "block.ntmod.raw_sapphire_block": "Block of Raw Sapphire",
 
